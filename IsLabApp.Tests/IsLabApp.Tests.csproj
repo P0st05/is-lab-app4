@@ -22,8 +22,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\IsLabApp.csproj" />
-  </ItemGroup>
-
 </Project>
