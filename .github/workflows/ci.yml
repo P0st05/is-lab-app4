@@ -1,4 +1,4 @@
-name: CI Build and Push to GHCR
+name: CI/CD - Build, Test and Push to GHCR
 
 on:
   push:
